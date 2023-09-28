@@ -1,0 +1,51 @@
+
+
+====================> NEW TCL SESSION
+
+(09/28/23 01:35:48)
+Command:
+PRIMARY selection doesn't exist or form "STRING" not defined
+    while executing
+"selection get "
+    invoked from within
+"set res [ selection get ]"
+    (command bound to event)
+Message:
+PRIMARY selection doesn't exist or form "STRING" not defined
+-----
+
+(09/28/23 01:35:51)
+Command:
+PRIMARY selection doesn't exist or form "STRING" not defined
+    while executing
+"selection get "
+    invoked from within
+"set res [ selection get ]"
+    (command bound to event)
+Message:
+PRIMARY selection doesn't exist or form "STRING" not defined
+-----
+
+(09/28/23 01:36:27)
+Command:
+PRIMARY selection doesn't exist or form "STRING" not defined
+    while executing
+"selection get "
+    invoked from within
+"set res [ selection get ]"
+    (command bound to event)
+Message:
+PRIMARY selection doesn't exist or form "STRING" not defined
+-----
+
+(09/28/23 01:36:28)
+Command:
+PRIMARY selection doesn't exist or form "STRING" not defined
+    while executing
+"selection get "
+    invoked from within
+"set res [ selection get ]"
+    (command bound to event)
+Message:
+PRIMARY selection doesn't exist or form "STRING" not defined
+-----
